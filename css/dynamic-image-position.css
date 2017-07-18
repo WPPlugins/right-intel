@@ -1,0 +1,20 @@
+img.alignleft {
+ 	float: image_float !important;
+ 	margin: image_margins !important;
+}
+span.ri-image-wrapper,
+a.ri-image-wrapper {
+	display: image_display;
+}
+span.ri-image-wrapper,
+a.ri-image-wrapper,
+a.ri-image-wrapper:active,
+a.ri-image-wrapper:visited,
+a.ri-image-wrapper:hover {
+	float: image_float !important;
+	margin: image_margins !important;
+	text-decoration: none !important;
+}
+.ri-image-secondary {
+	width: 260px !important;
+}
